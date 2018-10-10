@@ -1,6 +1,0 @@
-{
-    "require": {
-        "aura/router": "^3.0",
-        "guzzlehttp/psr7": "^1.3"
-    }
-}
